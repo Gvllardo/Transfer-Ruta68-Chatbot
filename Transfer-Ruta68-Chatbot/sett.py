@@ -1,0 +1,9 @@
+token = 'transferruta'
+
+#whatsapp_token = 'EAAUEYol1tO4BOwJ0XziV3ORlpwBrH6orcXUy54M1TtXAnpD4W8UJb8vGiDClLXSNkJbifJ8eFLpm67z9kQyqzSnwQxPS5R0pSkVOna3ykN700VOTmFiWx6EmDCfVt9rVkLf1ALeMbwop1i6sZCwwWuakZAZA2Tv0FP5uTjmNCbcNh7M64Kn8LMvU1uimFLR1MgZBZBO1zZAyYetwBL'
+
+whatsapp_token = 'EAAJzpeydAGcBO8NBXRaAwJhuIRXnvFuNmLvOVPh4oMgMP72YZApdvQTEPaYplJhkiw0RKLXANbY7VRAJgv3cGhCgh9Fo4gOoSv0YTYcCJ5A8qqzCwjZBaNOTd4HlIdqvTtEAUNZBK2h7jNZCRNqVBNhfbmuQXNzDyNXP8qwJ3WvMyUaH3hkeRr6QtsDLOQd0vQV1GHnQCQ1JJLB8'
+
+whatsapp_url = 'https://graph.facebook.com/v17.0/182920771570332/messages'
+
+#whatsapp_url = 'https://graph.facebook.com/v17.0/182920771570332/messages' 
